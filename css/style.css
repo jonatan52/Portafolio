@@ -9,7 +9,15 @@
     font-family: 'Josefin Sans', sans-serif;
 }
 
+
+
 body{
     background: #252526;
     
+}
+
+main{
+    display: flex;
+     align-items: center;
+    justify-content: space-between;   
 }

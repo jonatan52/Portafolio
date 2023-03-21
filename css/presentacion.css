@@ -1,16 +1,7 @@
-.presentacion{
-     display: flex;
-     align-items: center;
-    justify-content: space-between;   
-}
 
 #fotoPerosnal{
     width: 150px;
     border-radius: 100%;
     position: absolute;
-    opacity: inherit;
-}
-
-.imgagen-baner{
-    position: absolute;
+    
 }
